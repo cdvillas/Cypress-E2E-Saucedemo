@@ -12,8 +12,8 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu entorno local:
 
 1. **Clonar el repositorio**
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone https://github.com/cdvillas/Cypress-E2E-Saucedemo.git
+   cd Cypress-E2E-Saucedemo
    ```
 
 2. **Instalar las dependencias**
