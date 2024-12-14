@@ -13,22 +13,25 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu entorno local:
 1. **Clonar el repositorio**
    ```bash
    git clone https://github.com/cdvillas/Cypress-E2E-Saucedemo.git
-   cd Cypress-E2E-Saucedemo
    ```
+2. **Navegar al directorio del proyecto**
+```bash
+cd Cypress-E2E-Saucedemo
+```
 
-2. **Instalar las dependencias**
+3. **Instalar las dependencias**
    Asegúrate de tener [Node.js](https://nodejs.org/) instalado, luego ejecuta:
    ```bash
    npm install
    ```
 
-3. **Abrir Cypress**
+4. **Abrir Cypress**
    Para abrir el entorno interactivo de Cypress, ejecuta:
    ```bash
    npx cypress open
    ```
 
-4. **Ejecutar las pruebas en modo headless**
+5. **Ejecutar las pruebas en modo headless**
    Si prefieres ejecutar las pruebas en la terminal, utiliza:
    ```bash
    npx cypress run
